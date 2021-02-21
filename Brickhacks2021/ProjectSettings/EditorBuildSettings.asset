@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/tinaapitime.unity
+    guid: 0e0b56940b530af4f8cfb63b44b9ceed
   m_configObjects: {}
