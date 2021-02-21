@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Score : MonoBehaviour
 {
-
+	// doesn't do anything moved to game manager but can be used if someone wants to and keeps code safe
 	public List<int> surviveList;
 	public List<int> happyList;
 	public int lives;
